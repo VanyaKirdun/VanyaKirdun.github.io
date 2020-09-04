@@ -17,6 +17,7 @@ I am a curious and meticulous person who will not rest until I am sure that I ha
 * **Methodologies** | BEM | Object-Oriented Programming |
 * **Automation Software** |Gulp |
 * **VCS** | Git |
+* **Development Environment** | Sublime Text 3 | WebStorm |
 
 ## Code examples
 
@@ -37,9 +38,10 @@ let world = Found(str, '&', 'World');
 alert(hello + ' and ' + world);
 ```
 
-##Education
+## Education
 
 KNTU: http://kntu.net.ua/
+Vezom Academy: https://wezom.com.ua/kursy_html5_css3_js
 
 ## English level
 
